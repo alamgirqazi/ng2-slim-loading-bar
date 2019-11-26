@@ -9,7 +9,7 @@ npm install ng2-al-slim-bar
 ```
 ## Demo
 
-(https://angular-wytxgs.stackblitz.io)[https://angular-wytxgs.stackblitz.io
+[https://angular-wytxgs.stackblitz.io](https://angular-wytxgs.stackblitz.io)
  
 ## Usage
 
