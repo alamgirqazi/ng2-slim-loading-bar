@@ -9,8 +9,10 @@
  */
 Error.stackTraceLimit = Infinity;
 
-require('core-js/es6');
-require('core-js/es7/reflect');
+// require('core-js/es6');
+// require('core-js/es7/reflect');
+import 'core-js/es/reflect';
+
 
 // Typescript emit helpers polyfill
 require('ts-helpers');
