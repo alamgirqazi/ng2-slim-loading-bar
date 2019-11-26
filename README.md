@@ -7,9 +7,10 @@ Angular component that shows slim loading bar at the top of the page of your app
 ```sh
 npm install ng2-al-slim-bar
 ```
+## Demo
 
-<!-- ## Demo -->
-
+(https://angular-wytxgs.stackblitz.io)[https://angular-wytxgs.stackblitz.io
+ 
 ## Usage
 
 #### 1. Update the markup
