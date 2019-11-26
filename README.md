@@ -11,9 +11,10 @@ or
 
 yarn add ng2-al-slim-bar
 ```
+## Demo
 
-<!-- ## Demo -->
-
+[https://angular-wytxgs.stackblitz.io](https://angular-wytxgs.stackblitz.io)
+ 
 ## Usage
 
 #### 1. Update the markup
