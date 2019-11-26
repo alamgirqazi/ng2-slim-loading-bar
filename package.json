@@ -1,7 +1,7 @@
 {
   "name": "ng2-al-slim-bar",
   "description": "a fork of ng2-slim-loading-bar that works with angular 7,8,9+",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "test": "karma start",
     "test-watch": "tsc && karma start --no-single-run --auto-watch",

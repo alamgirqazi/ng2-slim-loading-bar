@@ -1,11 +1,15 @@
-# a fork of [ng2-al-slim-loading-bar](https://www.npmjs.com/package/ng2-slim-loading-bar) that works with Angular 7,8,9+
+# a slim loading bar that works with Angular 7,8,9+
 
-Angular component that shows slim loading bar at the top of the page of your application.
+Angular component that shows slim loading bar at the top of the page of your application. a fork of [ng2-slim-loading-bar](https://www.npmjs.com/package/ng2-slim-loading-bar)
 
 ## Installation
 
 ```sh
 npm install ng2-al-slim-bar
+
+or
+
+yarn add ng2-al-slim-bar
 ```
 
 <!-- ## Demo -->
